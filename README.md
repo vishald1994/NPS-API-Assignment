@@ -20,3 +20,4 @@ Website URL
 The user must be able to make multiple searches and see only the results for the current search.
 
 Example Results
+https://api.nps.gov/api/v1/parks?stateCode=ga&limit=10&q=georgia
